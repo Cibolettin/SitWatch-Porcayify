@@ -1,2 +1,2 @@
-# SitWatch-Porcayify
-SitWatch Porçayify tüm videoların thumbnaillerini porçay ile değiştiriyor
+# SitWatch Porcayify
+SitWatchdaki tüm videoların thumbnaillerini porçaylamaya hazırmısınız.
